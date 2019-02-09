@@ -1,2 +1,2 @@
 # Train-Ticketing-System
-It is developed using Python.
+Train Ticket booking and see the estimate price of total tickets 
